@@ -17,7 +17,7 @@
 - 🧑‍💼 Actualmente trabajo como **consultor** para grupos de investigación biomédica.
 - 📊 Tengo experiencia en pipelines de análisis con **R**, **Python** y **visualización de datos científicos**.
 - 💡 Me apasiona convertir datos complejos en conclusiones claras y reproducibles.
-- 📚 En mi tiempo libre, escribo artículos sobre **citometría de flujo** y **estadística aplicada** a la investigación clínica.
+- 📚 En mi tiempo libre, escribo blogs sobre **citometría de flujo** y **estadística aplicada** a la investigación clínica.
 
 ---
 
