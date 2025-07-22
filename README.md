@@ -14,7 +14,8 @@
 ---
 
 ## 🔭 Acerca de mí
-- 🧑‍💼 Actualmente trabajo como **consultor** para grupos de investigación biomédica.
+- 🔬 Actualmente soy **Investigador por México** de la SECIHTI.
+- 🧑‍💼 Paralelamente me desempeño como **consultor** para grupos de investigación biomédica.
 - 📊 Tengo experiencia en pipelines de análisis con **R**, **Python** y **visualización de datos científicos**.
 - 💡 Me apasiona convertir datos complejos en conclusiones claras y reproducibles.
 - 📚 En mi tiempo libre, escribo blogs sobre **citometría de flujo** y **estadística aplicada** a la investigación clínica.
