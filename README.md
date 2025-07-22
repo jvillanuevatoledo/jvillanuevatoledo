@@ -32,7 +32,7 @@
 
   <!-- Botón 2: Seminario de Investigación -->
   <a href="https://seminarioinvesmed.blogspot.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Seminario%20de%20Investigación-Blogspot-5c6bc0?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Seminario de Investigación">
+    <img src="https://img.shields.io/badge/Metodologia%20de%20la%20Investigación-Blogspot-5c6bc0?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Seminario de Investigación">
   </a>
 
 </div>
