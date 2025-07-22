@@ -26,10 +26,18 @@
 ---
 
 <h2 style="color: #007acc;">✍️ Mis Blogs</h2>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Botón 1: Multicitoverso -->
   <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Leer mi blog en Blogspot">
+    <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
   </a>
+
+  <!-- Botón 2: Seminario de Investigación -->
+  <a href="https://seminariodeinvestigacion.blogspot.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Seminario%20de%20Investigación-Blogspot-5c6bc0?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Seminario de Investigación">
+  </a>
+
 </div>
 
 ---
