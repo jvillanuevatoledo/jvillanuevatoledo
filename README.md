@@ -18,32 +18,17 @@
 - 🧑‍💼 Paralelamente me desempeño como **consultor** para grupos de investigación biomédica.
 - 📊 Tengo experiencia en _pipelines_ de análisis con **R**, **_Python_** y **visualización de datos científicos**.
 - 💡 Me apasiona convertir datos complejos en conclusiones claras y reproducibles.
-- 📚 En mi tiempo libre, escribo blogs sobre **citometría de flujo** y **estadística aplicada** a la investigación clínica.
+- 📚 En mi tiempo libre, escribo blogs sobre **Citometría de Flujo**, **Metodología de la Investigación** y **Estadística Aplicada**.
 
 ---
 
-<h2>📄 Mi CVU</h2>
-<div align="center">
-  <a href="https://minombre.github.io/CVU.pdf" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ver%20CVU-PDF%20en%20GitHub-4caf50?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CVU en PDF">
-  </a>
-</div>
 
 ---
 
-<h2>📱 Redes Sociales</h2>
+<h2>✍️ Mis Blogs</h2>
 <div align="center">
-  <a href="https://minombre.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visita%20mi%20perfil-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar perfil en GitHub Pages">
-  </a>
-</div>
-
----
-
-<h2>🌐 Mi sitio web</h2>
-<div align="center">
-  <a href="https://jvillanuevatoledo.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visitar%20sitio-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar GitHub Pages">
+  <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/multicivotverso-GitHub%20Pages-ff5722?style=for-the-badge&logo=blogger" alt="Leer mi blog en GitHub Pages">
   </a>
 </div>
 
@@ -73,6 +58,33 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<h2>📱 Redes Sociales</h2>
+<div align="center">
+  <a href="https://minombre.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visita%20mi%20perfil-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar perfil en GitHub Pages">
+  </a>
+</div>
+
+---
+
+<h2>🌐 Mi sitio web</h2>
+<div align="center">
+  <a href="https://jvillanuevatoledo.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visitar%20sitio-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar GitHub Pages">
+  </a>
+</div>
+
+---
+
+<h2>📄 Mi CVU</h2>
+<div align="center">
+  <a href="https://minombre.github.io/CVU.pdf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Ver%20CVU-PDF%20en%20GitHub-4caf50?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CVU en PDF">
+  </a>
 </div>
 
 ---
