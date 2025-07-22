@@ -14,7 +14,7 @@
 ---
 
 ## 🔭 Acerca de mí
-- 👨‍🔬 Actualmente soy **Investigador por México** de la [SECIHTI](https://secihti.mx/).
+- 👨‍🔬 Actualmente soy **Investigador por México** de la **SECIHTI**.
 - 🧑‍💼 Me desempeño además como **consultor especializado** para grupos de investigación biomédica.
 - 📊 Tengo experiencia en _pipelines_ de análisis con **R**, **_Python_** y **visualización de datos científicos**.
 - 💡 Me apasiona convertir datos complejos en conclusiones claras y reproducibles.
