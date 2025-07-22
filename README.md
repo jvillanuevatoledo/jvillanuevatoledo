@@ -25,10 +25,10 @@
 
 ---
 
-<h2>✍️ Mis Blogs</h2>
+<h2 style="color: #007acc;">✍️ Mis Blogs</h2>
 <div align="center">
   <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/multicivotverso-GitHub%20Pages-ff5722?style=for-the-badge&logo=blogger" alt="Leer mi blog en GitHub Pages">
+    <img src="https://img.shields.io/badge/multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Leer mi blog en Blogspot">
   </a>
 </div>
 
