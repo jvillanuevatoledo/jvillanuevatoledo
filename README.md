@@ -68,9 +68,15 @@
 ---
 
 <h2>📱 Redes Sociales</h2>
-<div align="center">
-  <a href="https://minombre.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visita%20mi%20perfil-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar perfil en GitHub Pages">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/citometriadeflujo" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-citometriadeflujo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook de Ricardo Villanueva">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ricardo-villanueva" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-ricardo--villanueva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Ricardo Villanueva">
   </a>
 </div>
 
