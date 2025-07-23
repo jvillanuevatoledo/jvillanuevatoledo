@@ -82,15 +82,6 @@
 
 ---
 
-<h2>🌐 Mi sitio web</h2>
-<div align="center">
-  <a href="https://jvillanuevatoledo.github.io/BIOGRAFIA" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visitar%20sitio-GitHub%20Pages-00acee?style=for-the-badge&logo=github" alt="Visitar GitHub Pages">
-  </a>
-</div>
-
----
-
 <h2>📄 Mi CVU</h2>
 <div align="center">
   <a href="https://jvillanuevatoledo.github.io/CVU" target="_blank" style="text-decoration: none;">
