@@ -94,7 +94,7 @@
 <h2>📄 Mi CVU</h2>
 <div align="center">
   <a href="https://jvillanuevatoledo.github.io/CVU" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ver%20CVUF%20en%20GitHub-4caf50?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CVU en PDF">
+    <img src="https://img.shields.io/badge/Ver%20CVU%20en%20GitHub-4caf50?style=for-the-badge&logo=adobeacrobatreader" alt="Ver CVU en PDF">
   </a>
 </div>
 
