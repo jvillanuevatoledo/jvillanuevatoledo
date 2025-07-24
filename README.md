@@ -22,15 +22,41 @@
 
 ---
 
+<h2>📚 Cursos</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Curso: Citometría Bioinformática -->
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
+    <h3 style="margin-top: 0;">💻 Citometría Bioinformática</h3>
+    <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
+  </a>
+  </div>
+
+  <!-- Curso: Metodología de la Investigación -->
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
+    <h3 style="margin-top: 0;">📊 Metodología de la Investigación</h3>
+    <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
+  </a>
+  </div>
+
+---
+
 <h2 style="color: #007acc;">✍️ Mis Blogs</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Botón 1: Multicitoverso -->
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
+    <h3 style="margin-top: 0;">💻 multiCITOverso</h3>
   <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
   </a>
-
-  <!-- Botón 2: Seminario de Investigación -->
+  
+  <!-- Botón 2: Metodología de la Investigación -->
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
+    <h3 style="margin-top: 0;">📊 Metodología de la Investigación</h3>
   <a href="https://seminarioinvesmed.blogspot.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Metodologia%20de%20la%20Investigación-Blogspot-5c6bc0?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Seminario de Investigación">
   </a>
