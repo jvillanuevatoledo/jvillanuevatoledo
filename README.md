@@ -29,7 +29,7 @@
   <!-- Curso: CITOverso -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 CITOverso </h3>
-    <a href="https://github.com/jvillanuevatoledo/CITOverso/tree/main" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/jvillanuevatoledo/CITOverso/tree/main/README.md" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/CITOverso-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="Visitar CITOverso en GitHub">
     </a>
   </div>
