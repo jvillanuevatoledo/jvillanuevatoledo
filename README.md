@@ -29,18 +29,21 @@
   <!-- Curso: CITOverso -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 CITOverso </h3>
-    <a href="[https://multicitoverso.blogspot.com](https://github.com/jvillanuevatoledo/CITOverso/blob/main/README.md)" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
-  </a>
+    <a href="https://github.com/jvillanuevatoledo/CITOverso/tree/main" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CITOverso-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="Visitar CITOverso en GitHub">
+    </a>
   </div>
 
   <!-- Curso: Metodología de la Investigación -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">📊 Metodología de la Investigación</h3>
     <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
-  </a>
+      <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
+    </a>
   </div>
+
+</div>
+
 
 ---
 
