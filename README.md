@@ -66,34 +66,6 @@
 
 ---
 
-## 📂 Repositorios destacados
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/jvillanuevatoledo/CITOMETRIA-BIOINFORMATICA" target="_blank">
-          <img src="assets/repositorio-a.png" alt="CITOMETRÍA BIOINFORMÁTICA" width="150"/><br/>
-          <sub><b>CITOMETRÍA BIOINFORMÁTICA</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/tuusuario/repositorio-b" target="_blank">
-          <img src="assets/repositorio-b.png" alt="Repositorio B" width="150"/><br/>
-          <sub><b>Repositorio B</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/tuusuario/repositorio-c" target="_blank">
-          <img src="assets/repositorio-c.png" alt="Repositorio C" width="150"/><br/>
-          <sub><b>Repositorio C</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2>📱 Redes Sociales</h2>
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <!-- Facebook -->
