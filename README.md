@@ -26,10 +26,10 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Curso: Citometría Bioinformática -->
+  <!-- Curso: CITOverso -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
-    <h3 style="margin-top: 0;">💻 Citometría Bioinformática</h3>
-    <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
+    <h3 style="margin-top: 0;">💻 CITOverso </h3>
+    <a href="[https://multicitoverso.blogspot.com](https://github.com/jvillanuevatoledo/CITOverso/blob/main/README.md)" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Multicitoverso-Blogspot-007acc?style=for-the-badge&logo=blogger&logoColor=ffffff" alt="Visitar Multicitoverso">
   </a>
   </div>
@@ -48,7 +48,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Botón 1: Multicitoverso -->
+  <!-- Botón 1: CITOverso -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 multiCITOverso</h3>
   <a href="https://multicitoverso.blogspot.com" target="_blank" style="text-decoration: none;">
