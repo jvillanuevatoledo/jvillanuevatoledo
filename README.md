@@ -44,7 +44,7 @@
 ---
 
 <h2 style="color: #007acc; text-align: left;">✍️ Mis Blogs</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Botón 1: CITOverso -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
