@@ -43,7 +43,7 @@
 
 ---
 
-<h2 style="color: #007acc; text-align: left;">✍️ Mis Blogs</h2>
+<h2 align= "left">✍️ Mis Blogs</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Botón 1: CITOverso -->
@@ -63,7 +63,7 @@
 
 ---
 
-<h2>📱 Redes Sociales</h2>
+<h2 align= "left">📱 Redes Sociales</h2>
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   
   <!-- Botón 1: Facebook -->
