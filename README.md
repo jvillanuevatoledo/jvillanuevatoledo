@@ -7,7 +7,7 @@
 
 <h1 align="center">👋 Hola, soy JAIRO VILLANUEVA</h1>
 <p align="center">
-  <em>Especialista en citometría de flujo, bioinformática y análisis de datos </em><br/>
+  <em>Interesado en citometría de flujo, bioinformática y análisis de datos </em><br/>
   ¡Bienvenido a mi página de GitHub!
 </p>
 
