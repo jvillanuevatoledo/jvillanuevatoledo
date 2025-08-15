@@ -62,14 +62,14 @@
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 CITOMETRÍA DE FLUJO</h3>
   <a href="https://www.facebook.com/citometriadeflujo" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-citometriadeflujo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook de Ricardo Villanueva">
+    <img src="https://img.shields.io/badge/Facebook-citometria de flujo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook de Ricardo Villanueva">
   </a>
 
   <!-- Botón 1: LinkedIn -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 LinkedIn</h3>
   <a href="https://www.linkedin.com/in/jairo-villanueva" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-ricardo--villanueva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jairo Villanueva">
+    <img src="https://img.shields.io/badge/LinkedIn-Jairo Villanueva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jairo Villanueva">
   </a>
 </div>
 
