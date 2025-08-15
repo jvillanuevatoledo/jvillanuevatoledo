@@ -68,8 +68,8 @@
   <!-- Botón 1: LinkedIn -->
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; width: 300px; background: #f9f9f9;">
     <h3 style="margin-top: 0;">💻 LinkedIn</h3>
-  <a href="https://www.linkedin.com/in/ricardo-villanueva" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-ricardo--villanueva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Ricardo Villanueva">
+  <a href="https://www.linkedin.com/in/jairo-villanueva" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-ricardo--villanueva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jairo Villanueva">
   </a>
 </div>
 
