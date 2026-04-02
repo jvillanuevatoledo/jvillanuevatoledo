@@ -1,10 +1,3 @@
-<!--
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ Este README se mostrará en tu perfil.                                      │
-│ Ajusta enlaces, nombres de proyectos y contenidos a tu información real.   │
-└─────────────────────────────────────────────────────────────────────────────┘
--->
-
 <h1 align="center">👋 Hola, soy JAIRO VILLANUEVA</h1>
 <p align="center">
   <em>Interesado en citometría de flujo, bioinformática y análisis de datos </em><br/>
