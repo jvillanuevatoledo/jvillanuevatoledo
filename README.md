@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy JAIRO VILLANUEVA</h1>
 <p align="center">
-  <em>Interesado en citometría de flujo, bioinformática y análisis de datos </em><br/>
+  <em>Interesado en Investigación Biomédica, Citometría de Flujo, Bioinformática y Ciencia de Datos </em><br/>
   ¡Bienvenido a mi página de GitHub!
 </p>
 
